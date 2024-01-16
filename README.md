@@ -1,2 +1,2 @@
 # calculator
-### https://calculator-beryl-ten-52.vercel.app/
+### deployed here https://calculator-beryl-ten-52.vercel.app/
